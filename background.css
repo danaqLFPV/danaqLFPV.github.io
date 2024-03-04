@@ -1,7 +1,8 @@
 body {
- background-image: linear-gradient(#FFFFFF,#8B1B24);
- font-family: American Typewriter, serif;
- font-size: 100%
+ background: rgb(212,255,255);
+ background: radial-gradient(circle, rgba(212,255,255,1) 0%, rgba(192,236,255,1) 50%, rgba(148,187,233,1) 100%);
+ font-family: Mrray text;
+ font-size: 150%
 }
 
 h1{
