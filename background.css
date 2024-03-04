@@ -1,7 +1,7 @@
 body {
  background: rgb(39,0,87);
- background: linear-gradient(90deg, rgba(39,0,87,1) 0%, rgba(80,80,200,1) 35%, rgba(107,217,255,1) 100%);
- font-family: MUrray text;
+ background: linear-gradient(90deg, rgba(39,0,87,1) 0%, rgba(80,80,200,1) 35%, rgba(86,110,212,1) 50%, rgba(136,213,255,1) 100%);
+ font-family: Murray text;
  font-size: 150%
 }
 
@@ -13,7 +13,7 @@ text-align: center;
 
 h2{
 font-size:150%;
-color:#7B241C;
+color:#adbcc9;
 padding-left: 15px;
 }
 
